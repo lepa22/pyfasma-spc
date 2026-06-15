@@ -1,3 +1,5 @@
+> **Important note:** This is a fork of [rohanisaac's](https://github.com/rohanisaac) [`spc` module](https://github.com/rohanisaac/spc). The purpose of this fork is to make the module [available on PyPI](https://pypi.org/project/pyfasma-spc/), so that it can be easily integrated into [PyFasma](https://gitlab.com/lepa22/pyfasma) and to allow other users to easily install it. All credit should go to him, along with my thanks.
+
 # spc
 
 [![Build Status](https://travis-ci.org/rohanisaac/spc.svg?branch=master)](https://travis-ci.org/rohanisaac/spc)
